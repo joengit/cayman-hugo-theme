@@ -22,15 +22,15 @@ pygmentsStyle = "pygments"
 
 [params]
   # Header text, can be markdown
-  project_name = "Cayman Hugo Theme"
-  project_tagline = "A clean, responsive Hugo theme, ported from the original Jekyll Cayman theme"
+  project_name = "这是标题"
+  project_tagline = "这是引言"
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "2006-01-02"
 
   # Footer text, can be markdown
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  footer = "这是页脚"
 
   # If true, the CSS/JS for Katex math typesetting are enabled
   katex = true
@@ -61,15 +61,15 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "Blog"
+    name = "博客"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Tags"
+    name = "标签"
     url = "/tags/"
     weight = 2
   [[menu.nav]]
-    name = "About"
+    name = "关于"
     url = "/about/"
     weight = 3
   [[menu.nav]]
