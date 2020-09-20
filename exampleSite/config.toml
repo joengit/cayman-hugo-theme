@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+baseURL = "https://jacek.top"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh"
 title = "Cayman"
 theme = "cayman-hugo-theme"
 
