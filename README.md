@@ -1,6 +1,6 @@
 # Cayman
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a050ba7f-deca-43ea-9e70-677784edf90c/deploy-status)](https://app.netlify.com/sites/cayman-hugo-theme/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b4a9215-5262-4407-838a-5b7e6cab38eb/deploy-status)](https://app.netlify.com/sites/cayman-hugo-theme/deploys)
 
 Cayman is a clean, responsive theme for Hugo, ported from the original Jekyll Cayman Theme.
 
